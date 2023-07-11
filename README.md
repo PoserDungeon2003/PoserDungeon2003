@@ -16,12 +16,15 @@
 
 ---
 
+### :man_technologist: About Me
+
 - 👋 Hi, I'm Thang, I also have a nickname @PoserDungeon2003.
+- :man_student: I'm studying Software Engineering at FPT University
 - 👀 I’m interested in gaming, coding. Sometimes I also make tutorial videos on YouTube.
 <!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+- 💞️ I’m looking to collaborate on ...--->
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thang-ngo-quang/)
+
 
 <!---
 PoserDungeon2003/PoserDungeon2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
