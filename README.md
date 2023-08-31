@@ -25,7 +25,11 @@
 - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thang-ngo-quang/)
 
+---
 
+Watch a snake-eating🐍 my contribution graph on Github 
+
+![snake gif](https://github.com/PoserDungeon2003/PoserDungeon2003/blob/output/github-contribution-grid-snake.gif)
 <!---
 PoserDungeon2003/PoserDungeon2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
