@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/thang-ngo-quang/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/thang-ngo-quang/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.facebook.com/thangngoquang.03/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://youtube.com/@kenhhuongdanofficial">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
