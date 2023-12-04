@@ -24,6 +24,15 @@
 <!---
 - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thang-ngo-quang/)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poserdungeon2003&show_icons=true&theme=holi"/>
+</div>
+
 <!---
 ---
 
