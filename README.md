@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me
 
-- 👋 Hi, I'm Thang, I also have a nickname @PoserDungeon2003.
+- 👋 Hi, I'm Thang.
 - :man_student: I'm studying Software Engineering at FPT University
 - 👀 I’m interested in gaming, coding. Sometimes I also make tutorial videos on YouTube.
 <!---
