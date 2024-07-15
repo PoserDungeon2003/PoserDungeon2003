@@ -12,6 +12,8 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=PoserDungeon2003&style=flat-square&color=blue" alt=""/>
+  
+  [![wakatime](https://wakatime.com/badge/user/060713a5-d70a-4c00-9e9f-8ef6d6a7b4cf.svg?style=social)](https://wakatime.com/@thangnq)
 </div>
 
 ---
