@@ -38,8 +38,8 @@
 
 ### GitHub Stats
 
-<div style="display: flex; flex-direction: column; justify-content: center; align: center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoserDungeon2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoserDungeon2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <br />
   <img src="https://github-readme-stats.vercel.app/api?username=poserdungeon2003&show_icons=true&theme=holi"/>
 </div>
 
